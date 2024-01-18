@@ -1,0 +1,8 @@
+C:\DirectX12-Lunar-Displacement-Renderer\Common\d3dApp.cpp;C:\DirectX12-Lunar-Displacement-Renderer\Project\MoonTerrainApp\x64\Debug\d3dApp.obj
+C:\DirectX12-Lunar-Displacement-Renderer\Common\d3dUtil.cpp;C:\DirectX12-Lunar-Displacement-Renderer\Project\MoonTerrainApp\x64\Debug\d3dUtil.obj
+C:\DirectX12-Lunar-Displacement-Renderer\Common\DDSTextureLoader.cpp;C:\DirectX12-Lunar-Displacement-Renderer\Project\MoonTerrainApp\x64\Debug\DDSTextureLoader.obj
+C:\DirectX12-Lunar-Displacement-Renderer\Common\GameTimer.cpp;C:\DirectX12-Lunar-Displacement-Renderer\Project\MoonTerrainApp\x64\Debug\GameTimer.obj
+C:\DirectX12-Lunar-Displacement-Renderer\Common\GeometryGenerator.cpp;C:\DirectX12-Lunar-Displacement-Renderer\Project\MoonTerrainApp\x64\Debug\GeometryGenerator.obj
+C:\DirectX12-Lunar-Displacement-Renderer\Common\MathHelper.cpp;C:\DirectX12-Lunar-Displacement-Renderer\Project\MoonTerrainApp\x64\Debug\MathHelper.obj
+C:\DirectX12-Lunar-Displacement-Renderer\Project\MoonTerrainApp\FrameResource.cpp;C:\DirectX12-Lunar-Displacement-Renderer\Project\MoonTerrainApp\x64\Debug\FrameResource.obj
+C:\DirectX12-Lunar-Displacement-Renderer\Project\MoonTerrainApp\MoonTerrainApp.cpp;C:\DirectX12-Lunar-Displacement-Renderer\Project\MoonTerrainApp\x64\Debug\MoonTerrainApp.obj

@@ -1,0 +1,2 @@
+C:\Users\lab\Documents\GitHub\d3d12book\Chapter 9 Texturing\TexColumns\x64\Debug\TexColumns.exe
+C:\Users\lab\Documents\GitHub\DirectX12-Lunar-Displacement-Renderer\Project\TexColumns\x64\Debug\MoonTerrainApp.exe
